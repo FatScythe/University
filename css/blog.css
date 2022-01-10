@@ -149,7 +149,7 @@ nav ul li:hover::after {
 .comment {
 	border: 1px solid #ccc;
 	margin: 50px 0;
-	padding: 10px 20px;
+	padding: 30px 20px;
 }
 
 .comment h3 {
@@ -170,7 +170,7 @@ nav ul li:hover::after {
 
 .comment .btn {
 	border: 1px solid black;
-	margin: 10px 0;
+	margin: 0px 0;
 	padding: 10px 15px;
 	font-size: 18px;
 	color: #fff;
